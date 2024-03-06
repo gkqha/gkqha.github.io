@@ -1,0 +1,22 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "Eleventy Base Blog v8",
+	"language": "zh-cn",
+	"home_page_url": "https://gkqha.github.io/",
+	"feed_url": "https://gkqha.github.io/feed/feed.json",
+	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"author": {
+		"name": "Your Name Here",
+		"url": "https://example.com/about-me/"
+	},
+	"items": [
+		{
+			"id": "https://gkqha.github.io/blog/diwurenge-31/",
+			"url": "https://gkqha.github.io/blog/diwurenge-31/",
+			"title": "第五人格三十一赛季三四阶监管者排行榜",
+			"content_html": "<ol>\n<li>厂长</li>\n<li>红蝶</li>\n<li>小丑</li>\n<li>噩梦</li>\n<li>黄衣之主</li>\n<li>渔女</li>\n<li>宿伞</li>\n<li>红夫人</li>\n<li>小提琴家</li>\n<li>歌剧演员</li>\n</ol>\n",
+			"date_published": "2024-03-06T00:00:00Z"
+		}
+		
+	]
+}
